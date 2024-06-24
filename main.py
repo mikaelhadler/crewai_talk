@@ -10,4 +10,5 @@ def run_crew(topic):
     )
 
     result = crew.kickoff(inputs={'topic': topic})
+    print(crew.usage_metrics)
     return result

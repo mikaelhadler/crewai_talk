@@ -18,3 +18,8 @@ $ uv venv
 ```bash
 $ uv pip install -r requirements.txt
 ```
+
+---
+
+### Demo
+https://asset.cloudinary.com/dr26yn9mp/47176cc0a428ee93d29d230106f562c2
